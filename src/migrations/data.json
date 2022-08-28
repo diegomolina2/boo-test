@@ -1,0 +1,180 @@
+{
+  "personality": [
+    {
+      "name":"infp",
+      "type": "mbti"
+    },
+    {
+      "name":"infj",
+      "type": "mbti"
+    },
+    {
+      "name":"enfp",
+      "type": "mbti"
+    },
+    {
+      "name":"enfj",
+      "type": "mbti"
+    },
+    {
+      "name":"intj",
+      "type": "mbti"
+    },
+    {
+      "name":"intp",
+      "type": "mbti"
+    },
+    {
+      "name":"entp",
+      "type": "mbti"
+    },
+    {
+      "name":"entj",
+      "type": "mbti"
+    },
+    {
+      "name":"isfp",
+      "type": "mbti"
+    },
+     {
+      "name":"isfj",
+      "type": "mbti"
+    },
+     {
+      "name":"esfp",
+      "type": "mbti"
+    },
+     {
+      "name":"esfj",
+      "type": "mbti"
+    },
+     {
+      "name":"istp",
+      "type": "mbti"
+    },
+     {
+      "name":"istj",
+      "type": "mbti"
+    },
+     {
+      "name":"estp",
+      "type": "mbti"
+    },
+    {
+      "name":"estj",
+      "type": "mbti"
+    },
+    {
+      "name":"1w2",
+      "type": "enneagram"
+    },
+    {
+      "name":"2w3",
+      "type": "enneagram"
+    },
+    {
+      "name":"3w2",
+      "type": "enneagram"
+    },
+    {
+      "name":"3w4",
+      "type": "enneagram"
+    },
+    {
+      "name":"4w3",
+      "type": "enneagram"
+    },
+    {
+      "name":"4w5",
+      "type": "enneagram"
+    },
+    {
+      "name":"5w4",
+      "type": "enneagram"
+    },
+    {
+      "name":"5w6",
+      "type": "enneagram"
+    },
+    {
+      "name":"6w5",
+      "type": "enneagram"
+    },
+    {
+      "name":"6w7",
+      "type": "enneagram"
+    },
+    {
+      "name":"7w6",
+      "type": "enneagram"
+    },
+    {
+      "name":"7w8",
+      "type": "enneagram"
+    },
+    {
+      "name":"8w7",
+      "type": "enneagram"
+    },
+    {
+      "name":"8w9",
+      "type": "enneagram"
+    },
+    {
+      "name":"9w8",
+      "type": "enneagram"
+    },
+    {
+      "name":"9w1",
+      "type": "enneagram"
+    },
+    {
+      "name":"aries",
+      "type": "zodiac"
+    },
+    {
+      "name":"taurus",
+      "type": "zodiac"
+    },
+    {
+      "name":"gemini",
+      "type": "zodiac"
+    },
+    {
+      "name":"cancer",
+      "type": "zodiac"
+    },
+    {
+      "name":"leo",
+      "type": "zodiac"
+    },
+     {
+      "name":"virgo",
+      "type": "zodiac"
+    },
+    {
+      "name":"libra",
+      "type": "zodiac"
+    },
+    {
+      "name":"scorpio",
+      "type": "zodiac"
+    },
+    {
+      "name":"sagittarius",
+      "type": "zodiac"
+    },
+    {
+      "name":"capricorn",
+      "type": "zodiac"
+    },
+    {
+      "name":"aquarius",
+      "type": "zodiac"
+    },
+    {
+      "name":"pisces",
+      "type": "zodiac"
+    }
+  ]
+}
