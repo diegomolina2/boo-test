@@ -70,10 +70,10 @@ To save data I'm using Atlas Cluster MongoDB (free). The Database is connected w
     | Method Name  | method | Path | Body
     | ------------- |:-------------:| :-------------:|:-------------:|
     | Get All      | get | http://localhost:3000/api/comments |
-    | Get All with sort filter     | get | http://localhost:3000/api/comments?sort=desc |
-    | Get by personality with sort filter     | get | http://localhost:3000/api/comments?personality=zodiac&sort=desc |
-    | Get All by likes    | get | http://localhost:3000/api/comments?likes=desc |
-    | Get by personality & by likes    | get | http://localhost:3000/api/comments?likes=desc&personality=zodiac |
+    | Get All with sort filter     | get | http://localhost:3000/api/comments?sort=desc | Sort filter: 'asc', 'desc', 'ascending', 'descending'
+    | Get by personality with sort filter     | get | http://localhost:3000/api/comments?personality={personalityFilter}c&sort=desc | personality filter: mbti, enneagram, zodiac
+    | Get All by likes    | get | http://localhost:3000/api/comments?likes=desc | Likes filter: 'asc', 'desc', 'ascending', 'descending'
+    | Get by personality & by likes    | get | http://localhost:3000/api/comments?likes=desc&personality={personalityFilter} | Personality filter: mbti, enneagram, zodiac
     | Get by Id      | get | http://localhost:3000/api/comments/{commentId} |
     | Edit by id     | patch | http://localhost:3000/api/comments/{commentId} | json with parameter to update
     | Delete by Id      | delete | http://localhost:3000/api/comments/{commentId} |
